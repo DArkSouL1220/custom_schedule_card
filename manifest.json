@@ -1,0 +1,12 @@
+{
+  "domain": "custom_schedule_card",
+  "name": "Custom Schedule Card",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@dein-github"],
+  "frontend": {
+    "javascript": ["custom-schedule-card.js", "editor.js"],
+    "type": "module"
+  }
+}
